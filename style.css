@@ -3,7 +3,6 @@
 * {
   padding: 0;
   box-sizing: border-box;
-  background-color: red ;
 }
 
 :root {
@@ -17,11 +16,8 @@ body {
 h1 {
   text-align: center;
   margin: 2rem;
-  color: aliceblue;
 }
-label {
-  color: aliceblue;
-}
+
 .input-label {
   display: block;
   font-size: larger;
